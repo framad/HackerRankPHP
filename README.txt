@@ -1,2 +1,2 @@
-Hackerrank problem solving (basic) solution using PHP. It will work if you run it on your own environment but if you want to
-use the code to solve the hackerrank problem u need to change the syntax a bit. Nevertheless the solution i provide will work perfectly.
+Hackerrank problem solving (basic) solution using PHP. Since i made this in my own evironment tt will work if you run it on your own, but if you want to
+use the code to solve the hackerrank problem u need to change the syntax a bit. Few of the code here i copied from another people on the internet, i only do that when i got stuck to pass all the test case. Nevertheless the solution i provide will work perfectly.
