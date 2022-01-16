@@ -1,0 +1,2 @@
+Hackerrank problem solving (basic) solution using PHP. It will work if you run it on your own environment but if you want to
+use the code to solve the hackerrank problem u need to change the syntax a bit. Nevertheless the solution i provide will work perfectly.
